@@ -1,0 +1,66 @@
+[
+  {
+    "model": "item.item",
+    "pk": 1001,
+    "fields": {
+      "name": "apple",
+      "user_id": 1001
+    }
+  },
+  {
+    "model": "item.item",
+    "pk": 1002,
+    "fields": {
+      "name": "pear",
+      "user_id": 1001
+    }
+  },
+  {
+    "model": "item.item",
+    "pk": 1003,
+    "fields": {
+      "name": "grape",
+      "user_id": 1002
+    }
+  },
+  {
+    "model": "item.item",
+    "pk": 1004,
+    "fields": {
+      "name": "pineapple",
+      "user_id": 1002
+    }
+  },
+  {
+    "model": "item.item",
+    "pk": 1005,
+    "fields": {
+      "name": "watermelon",
+      "user_id": 1003
+    }
+  },
+  {
+    "model": "item.item",
+    "pk": 1006,
+    "fields": {
+      "name": "peach",
+      "user_id": 1003
+    }
+  },
+  {
+    "model": "item.item",
+    "pk": 1007,
+    "fields": {
+      "name": "orange",
+      "user_id": 1004
+    }
+  },
+  {
+    "model": "item.item",
+    "pk": 1008,
+    "fields": {
+      "name": "lemon",
+      "user_id": 1004
+    }
+  }
+]

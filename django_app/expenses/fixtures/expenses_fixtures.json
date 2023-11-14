@@ -1,0 +1,90 @@
+[
+  {
+    "model": "expenses.expenses",
+    "pk": 1001,
+    "fields": {
+      "cost": 1.1,
+      "item_id": 1001,
+      "user_id": 1001,
+      "date": "2023-03-04",
+      "time": "12:25:44"
+    }
+  },
+  {
+    "model": "expenses.expenses",
+    "pk": 1002,
+    "fields": {
+      "cost": 2.2,
+      "item_id": 1002,
+      "user_id": 1001,
+      "date": "2023-03-05",
+      "time": "13:19:07"
+    }
+  },
+  {
+    "model": "expenses.expenses",
+    "pk": 1003,
+    "fields": {
+      "cost": 3.3,
+      "item_id": 1003,
+      "user_id": 1002,
+      "date": "2023-03-04",
+      "time": "12:25:44"
+    }
+  },
+  {
+    "model": "expenses.expenses",
+    "pk": 1004,
+    "fields": {
+      "cost": 4.4,
+      "item_id": 1004,
+      "user_id": 1002,
+      "date": "2023-03-05",
+      "time": "13:19:07"
+    }
+  },
+  {
+    "model": "expenses.expenses",
+    "pk": 1005,
+    "fields": {
+      "cost": 5.5,
+      "item_id": 1005,
+      "user_id": 1003,
+      "date": "2023-03-04",
+      "time": "12:25:44"
+    }
+  },
+  {
+    "model": "expenses.expenses",
+    "pk": 1006,
+    "fields": {
+      "cost": 6.6,
+      "item_id": 1006,
+      "user_id": 1003,
+      "date": "2023-03-05",
+      "time": "13:19:07"
+    }
+  },
+  {
+    "model": "expenses.expenses",
+    "pk": 1007,
+    "fields": {
+      "cost": 7.7,
+      "item_id": 1007,
+      "user_id": 1004,
+      "date": "2023-03-04",
+      "time": "12:25:44"
+    }
+  },
+  {
+    "model": "expenses.expenses",
+    "pk": 1008,
+    "fields": {
+      "cost": 8.8,
+      "item_id": 1008,
+      "user_id": 1004,
+      "date": "2023-03-05",
+      "time": "13:19:07"
+    }
+  }
+]
